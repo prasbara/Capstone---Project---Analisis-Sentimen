@@ -151,11 +151,20 @@ capstone-analisis-sentimen/
 
 ## 👥 Support & Credits
 
-**Capstone Project Team - Analisis Sentimen**
+**Capstone Project Team – Analisis Sentimen**
 
-Project ini dikembangkan sebagai solusi analisis opini publik otomatis untuk mendukung pengambilan keputusan berbasis data di Pemerintah Kota Semarang.
+Project ini dikembangkan sebagai solusi analisis opini publik otomatis untuk mendukung pengambilan keputusan berbasis data di **Pemerintah Kota Semarang**.
 
 <div align="center">
+
+### 👤 Project Owner  
+**prasbara**
+
+### 🤝 Collaborators  
+- **AldenGittoHubbo**  
+- **fauzanhabib37-coder**
+
+</div>
 
 **Built with ❤️ for Kota Semarang**
 
